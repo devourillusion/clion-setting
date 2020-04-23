@@ -1,0 +1,32 @@
+<keymap version="1" name="GNOME copy 1" parent="Default for GNOME">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProjectToolWindow" />
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="NextEditorTab">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="PreviousEditorTab">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="RerunTests" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="RunConfiguration">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+</keymap>

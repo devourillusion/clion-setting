@@ -1,0 +1,64 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2020-04-16T11:45:20</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2020.1.0.0</property>
+    <property name="modified">2020-04-16T12:51:57</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="OC.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="efc66d" />
+      </value>
+    </option>
+    <option name="OC.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="bfc608" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_LIKE">
+      <value>
+        <option name="FOREGROUND" value="e3ce" />
+      </value>
+    </option>
+    <option name="org.rust.ENUM">
+      <value>
+        <option name="FOREGROUND" value="e3ce" />
+      </value>
+    </option>
+    <option name="org.rust.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="cacc01" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.Q_OPERATOR">
+      <value>
+        <option name="FOREGROUND" value="ff8823" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.STRUCT">
+      <value>
+        <option name="FOREGROUND" value="e3ce" />
+      </value>
+    </option>
+    <option name="org.rust.TRAIT">
+      <value>
+        <option name="FOREGROUND" value="dee3dd" />
+      </value>
+    </option>
+    <option name="org.rust.TYPE_ALIAS">
+      <value>
+        <option name="FOREGROUND" value="88e3e3" />
+      </value>
+    </option>
+    <option name="org.rust.UNION">
+      <value>
+        <option name="FOREGROUND" value="e3ce" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
