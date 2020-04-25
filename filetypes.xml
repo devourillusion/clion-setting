@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="./gitinore" type="GitIgnore file" />
       <mapping pattern="gitinore" type="GitIgnore file" />
+      <mapping pattern="Makefile2" type="Makefile" />
     </extensionMap>
   </component>
 </application>
