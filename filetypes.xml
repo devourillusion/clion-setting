@@ -4,6 +4,7 @@
       <mapping pattern="./gitinore" type="GitIgnore file" />
       <mapping pattern="gitinore" type="GitIgnore file" />
       <mapping pattern="Makefile2" type="Makefile" />
+      <mapping ext="raw" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
